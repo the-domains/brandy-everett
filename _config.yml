@@ -1,0 +1,28 @@
+name: Brandy Everett
+favicon: null
+layout_spectrum: 0.14838311192579567
+typography_spectrum: 0.4861763825174421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9269638173282146
+  lightness: 0.40577099844813347
+  saturation: 0.7423422036226839
+  rhythmicContrast: 0.8935598679818213
+purpose: []
