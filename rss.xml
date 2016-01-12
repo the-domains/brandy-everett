@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brandy Everett]]></title>
         <description><![CDATA[Brandy Everett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandy-everett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 22:50:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 22:59:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandy-everett/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b72da3e-ca8a-4d16-9d3b-6e6cc70631eb.jpg">]]></description>
+            <link>https://thegrid.ai/brandy-everett/af7a8141-a98c-4162-a1f2-b38687977699/index.html</link>
+            <guid isPermaLink="false">af7a8141-a98c-4162-a1f2-b38687977699</guid>
+            <pubDate>Tue, 12 Jan 2016 22:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portraits]]></title>
             <description><![CDATA[<article><h1>Portraits</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4768bff6-3b15-4e2f-bef0-60aff0d4709f.jpg"></article>]]></description>
-            <link>undefinedportraits/index.html</link>
+            <link>https://thegrid.ai/brandy-everett/portraits/index.html</link>
             <guid isPermaLink="false">5e15bb0a-6218-4642-9d7f-3f04fb4a1089</guid>
             <pubDate>Tue, 12 Jan 2016 22:50:16 GMT</pubDate>
         </item>
